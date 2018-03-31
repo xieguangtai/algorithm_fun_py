@@ -1,0 +1,6 @@
+*.rb
+*.js
+*.php
+*.c
+*.txt
+.vscode
